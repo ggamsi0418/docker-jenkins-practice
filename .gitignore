@@ -1,0 +1,4 @@
+.git
+.dockerignore
+djVenv
+.env
