@@ -1,7 +1,8 @@
 # Docker-Jenkins-Practice
 
-### 서버 구성도
+### [0] 서버 구성도
 
+![Docker_Jenkins_배포자동화_구성도](https://user-images.githubusercontent.com/58096698/85998944-67319080-ba46-11ea-8854-7184b8d5f382.png)
 
 ### [1] django 애플리케이션 Dockerizing
 https://www.evernote.com/l/AlN2FlOzhmhAyKzcAKdeLBwdFtpAC4siLK8/
